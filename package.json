@@ -1,0 +1,14 @@
+{
+  "name": "file-reader",
+  "version": "1.0.0",
+  "description": "A command line script in Node to take a CSV file and stores it as JSON. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Locke Newell",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "13.2"
+  }
+}
